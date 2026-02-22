@@ -1,0 +1,14 @@
+data/onnx/
+data/torch/
+data/input/
+data/results/
+__pycache__/
+*.pyc
+*.onnx
+*.pt
+*.pth
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.webp

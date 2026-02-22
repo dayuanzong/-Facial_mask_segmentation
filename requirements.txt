@@ -1,0 +1,11 @@
+tensorflow-gpu==2.10.0
+protobuf==3.19.3
+tf2onnx==1.16.0
+numpy==1.23.5
+torch
+torchvision
+onnx
+onnx-tf
+onnxruntime==1.16.3
+opencv-python==4.9.0.80
+pillow==10.2.0
