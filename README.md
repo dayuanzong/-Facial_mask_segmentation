@@ -63,26 +63,8 @@ python tools/convert/convert_torch_onnx.py --with_retinaface --skip_farl_lapa
 
 FaRL ONNX 输出为 512×512，推理端需先 resize 到 448×448 再进行反变换。
 
-## 不包含内容
 
-本仓库仅上传代码，不包含模型与图片文件：
 
-- data/onnx
-- data/torch
-- data/input
-- data/results
-
-## 上传到 GitHub
-
-```bash
-git init
-git remote add origin https://github.com/dayuanzong/-Facial_mask_segmentation
-git add .
-git commit -m "init"
-git push -u origin main
-```
-
-请确保在提交前排除模型与图片文件。
 
 ## 许可证
 
